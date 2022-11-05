@@ -1,7 +1,7 @@
 > ### Курсовой проект “Flask-приложение”
 :snake::snake::snake::snake::snake::snake::snake::snake::snake::snake::snake::snake::snake::snake:
 
-        ##Функционал
+##Функционал
 
 - Просмотр из БД всех сотрудников на главной странице
 - Добавление нового сотрудника
